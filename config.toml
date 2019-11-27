@@ -15,6 +15,9 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+[permalinks]
+    posts = ":slug"
+
 [params]
     author = "Josh Nerius"
     description = "John Nerius' personal blog"
