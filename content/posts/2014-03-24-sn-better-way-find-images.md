@@ -1,5 +1,4 @@
 +++ 
-draft = true
 date = 2014-03-24T15:56:12-05:00
 title = "A better way to find ServiceNow images"
 description = "**Once upon a time**, it was easy to find the image you wanted in the ServiceNow image picker."
