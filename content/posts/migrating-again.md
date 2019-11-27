@@ -1,5 +1,4 @@
 +++ 
-draft = true
 date = 2019-11-27T15:01:38-05:00
 title = "Migrating to Netlify + Hugo"
 description = ""
